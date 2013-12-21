@@ -1,4 +1,5 @@
 # Stopwatch - the game
+# This is the implementation of a stopwatch in python. To make it a game you score one point when you stop the watch on .0 secons
 
 # import statements
 import simpleguitk as simplegui
